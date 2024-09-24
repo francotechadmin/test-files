@@ -23,6 +23,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8?DVR
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="CDN.do" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="Santo Domingo",Canal 37 - CDN (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-id="CDN.do" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvlYasHQJbYx-380-qPffmHHJEpIByDq6-A&s" group-title="Santo Domingo",Canal - CDN Deportes (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/manifest.m3u8?p=79&s=1727197575&e=1727198175&h=ac3c87aa2e133532d37f366d5c9ca925
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="Santo Domingo",Claro Televisión Dominicana (360p)
 https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 tvg-id="Agenda56TV.do" tvg-logo="https://i.imgur.com/G7zIVB7.png" group-title="General",Agenda 56 (720p)
