@@ -14,7 +14,7 @@ https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Santo Domingo",Canal 12 - Telecanal
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="Santo Domingo",Canal 13 - Telecentro (480p)
-http://51.81.93.239:8084/hls/telecentro.m3u8
+https://fl1002.bozztv.com/ssh101/0013/index.m3u8
 #EXTINF:-1 tvg-id="Digital15.do" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Santo Domingo",Canal 15 - Digital 15 (480p)
 http://51.81.93.29:8084/hls/d15.m3u8
 #EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="Santo Domingo",Canal 19 - Cinevision
