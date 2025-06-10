@@ -8,7 +8,7 @@ https://fl1002.bozztv.com/ssh101/0005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="Santo Domingo",Canal 7 - Antena Latina
 https://fl1002.bozztv.com/ssh101/0007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Santo Domingo",Canal 9 - Color Visión
-https://www.dailymotion.com/cdn/live/video/x7gy059#tab_embed.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7gy059.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&eb=https%3A%2F%2Fcolorvision.com.do%2F
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Santo Domingo",Canal 11 - Telesistema (480p)
 https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Santo Domingo",Canal 12 - Telecanal
