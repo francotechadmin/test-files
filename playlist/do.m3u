@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" group-title="Santo Domingo" tvg-logo="https://s2.dmcdn.net/u/7qGGz1aOWTB9if6Cx/240x240", Color Vision Canal 9
+https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/67fdb1d3afe7a7e4b89fd0c6.m3u8?uid=gabrielx95&pkey=NBnBfSwS
+#EXTINF:-1 tvg-id="" group-title="Santo Domingo" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", Telesistema
+https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/681be82f07e28342d3e9762c.m3u8?uid=gabrielx95&pkey=NBnBfSwS
+#EXTINF:-1 tvg-id="" group-title="Santo Domingo" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", Canal Coral
+https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/681c2abbec230c991e409498.m3u8?uid=gabrielx95&pkey=NBnBfSwS
+#EXTINF:-1 tvg-id="" group-title="Santo Domingo" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-04/NTASLATE-b832f3.png", Noticias Telemundo AHORA
+https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/6813dca695dc3389acf81703.m3u8?uid=gabrielx95&pkey=NBnBfSwS
+#EXTINF:-1 tvg-id="" group-title="Santo Domingo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCR0ZaN6iJtdxcAA9-LAPwIn2SKN0Zov5ndg&s", CNN es
+https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/681a5d5fa39dfa6b592e021f.m3u8?uid=gabrielx95&pkey=NBnBfSwS
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="Santo Domingo",Canal 2 - Tele Antillas
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Santo Domingo",Canal 4 RD (1080p)
@@ -9,8 +19,6 @@ https://fl1002.bozztv.com/ssh101/0005/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com/ssh101/0007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ColorVision.do" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="Santo Domingo",Canal 9 - Color Visión
 https://www.dailymotion.com/video/x7gy059#tab_embed.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://s2.dmcdn.net/u/7qGGz1aOWTB9if6Cx/240x240", Color Vision Canal 9
-https://api.m3use.projectmoose.xyz/m3u/gabrielx95/DomRep/67fdb1d3afe7a7e4b89fd0c6.m3u8?uid=gabrielx95&pkey=NBnBfSwS
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="Santo Domingo",Canal 11 - Telesistema (480p)
 https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Santo Domingo",Canal 12 - Telecanal
